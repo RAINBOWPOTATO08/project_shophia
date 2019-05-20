@@ -9,6 +9,7 @@ body{
 .links{
   display: inline-block;
   margin-left: 5px;
+  color: black;
 }
 #link_box{
   padding-left: 50px;
